@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <code>22174600032</code>
+    <name>
+        <fname>Thuyen</fname>
+        <lname>Nguyen Thi</lname>
+    </name>
+    <Date>20/10/2004</Date>
+    <Class>DHKL16A1HN</Class>
+    <gender>female</gender>
+</students>
